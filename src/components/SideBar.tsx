@@ -9,7 +9,7 @@ const Sidebar = () => {
   ]);
 
 
-  const [priceRange, setPriceRange] = useState(100);
+  const [, setPriceRange] = useState(100);
 
   
   const handleCheckboxChange = (
